@@ -552,7 +552,7 @@ GameObject:
   - component: {fileID: 1918176475}
   - component: {fileID: 1918176474}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Mandi's City
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
